@@ -13,7 +13,7 @@
  https://script.google.com/macros/s/XXXXXXXXXXXX/exec
 */
 
-const API_URL = "AKfycbz-p-so3Nhy9xCasqW_3VXABAJlIFGxpkbR3taxgjImyd9c1wl76CmykDvaalKDA4gLtQ";
+const API_URL = "AKfycbxNt7MtBNwhjOjvqaVuPfXq6Ymuv3iix0diX6HWob0ZoOGpJQBWriZya98mAEnj7Xf1Hw";
 
 
 
